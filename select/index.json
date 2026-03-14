@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月に願う",
+  "base_artist": "sorato",
+  "createdAt": "2026-03-14T17:01:27.905435Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月に願う",
+      "artist": "sorato",
+      "has_synced": false,
+      "path": "select/pl_01_月に願う_sorato.txt"
+    }
+  ]
+}
